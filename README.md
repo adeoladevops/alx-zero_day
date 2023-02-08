@@ -1,3 +1,2 @@
 My first readme
-from git hub
-only time
+from git hub.
